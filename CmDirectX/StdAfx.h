@@ -6,7 +6,7 @@
 #include <time.h>
 #include <assert.h>
 
-#include <CmCode/CmDx/CmDx.h>
+#include <../CmDx/CmDx.h>
 
 
 #include <opencv2/opencv.hpp> 
